@@ -1,0 +1,16 @@
+@import "../reset";
+.headerIntroduction {
+  font-size: 2em;
+  text-transform: capitalize;
+  font-family: $myFont;
+  padding-top: 2em;
+}
+header {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+header > i {
+  font-size: 5em;
+  color: black;
+}

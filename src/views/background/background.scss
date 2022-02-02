@@ -1,0 +1,13 @@
+.background {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  line-height: 2em;
+  text-transform: uppercase;
+}
+.background__Headline {
+  text-transform: uppercase;
+}
+.background__Text {
+  text-transform: capitalize;
+}
