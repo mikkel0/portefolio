@@ -1,13 +1,17 @@
 {
   "files": {
-    "main.css": "/portefolio/static/css/main.e7f8688f.css",
-    "main.js": "/portefolio/static/js/main.144967ff.js",
+    "main.css": "/portefolio/static/css/main.27d510c8.css",
+    "main.js": "/portefolio/static/js/main.f7366031.js",
+    "static/media/2022-04-03 (1).png": "/portefolio/static/media/2022-04-03 (1).b6be5e9100d9b2260e7a.png",
+    "static/media/2022-04-03 (3).png": "/portefolio/static/media/2022-04-03 (3).ff8da68f0f3e555744ad.png",
+    "static/media/Skærmbillede (1).png": "/portefolio/static/media/Skærmbillede (1).aaf20be7eb729d25c7b0.png",
+    "static/media/Skærmbillede (2).png": "/portefolio/static/media/Skærmbillede (2).472a5d63d62dfb72c31b.png",
     "index.html": "/portefolio/index.html",
-    "main.e7f8688f.css.map": "/portefolio/static/css/main.e7f8688f.css.map",
-    "main.144967ff.js.map": "/portefolio/static/js/main.144967ff.js.map"
+    "main.27d510c8.css.map": "/portefolio/static/css/main.27d510c8.css.map",
+    "main.f7366031.js.map": "/portefolio/static/js/main.f7366031.js.map"
   },
   "entrypoints": [
-    "static/css/main.e7f8688f.css",
-    "static/js/main.144967ff.js"
+    "static/css/main.27d510c8.css",
+    "static/js/main.f7366031.js"
   ]
 }
